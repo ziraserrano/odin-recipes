@@ -4,3 +4,13 @@ h1 {
     text-align: center;
     font-size: xx-large;
 }
+
+.images {
+    height: auto;
+    width: 350px;
+}
+
+#birria.images {
+    height: auto;
+    width: 500px;
+}
